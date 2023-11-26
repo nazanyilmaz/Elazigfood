@@ -9,8 +9,6 @@
 <h1>Project Gif</h1>
 
 
-
-
-https://github.com/nazanyilmaz/Local-food-webpage/assets/147782488/bbcaff06-13a9-417d-98c9-342c7b8d5509
+![ezgif com-optimize (19)](https://github.com/nazanyilmaz/Local-food-webpage/assets/147782488/a20fdf87-dbc6-4016-bad7-4b410dc8d050)
 
 
